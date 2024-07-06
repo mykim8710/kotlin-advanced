@@ -28,4 +28,4 @@ bin/
 ### Mac OS ###
 .DS_Store
 /.idea/
-/kotlin-init.iml
+/kotlin-advanced.iml
